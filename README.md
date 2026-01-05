@@ -43,7 +43,9 @@ pdf-data-extractor/
 │   └── sample_invoice.pdf
 │
 ├── requirements.txt
-└── README.md '''
+└── README.md 
+```
+--- 
 
 ## 🔧 Setup & Installation
 
