@@ -50,32 +50,32 @@ pdf-data-extractor/
 ## 🔧 Setup & Installation
 
 ### 1️⃣ Clone the repository
-'''
+```
 git clone https://github.com/Vansh-77/pdf-extracter.git 
 cd pdf-data-extractor  
-'''
+```
 
 ### 2️⃣ Install dependencies
-'''
+```
 pip install -r requirements.txt  
-'''
+```
 
 ### 3️⃣ Start MongoDB
-'''
+```
 mongod  
-'''
-(Or use MongoDB Compass / MongoDB Atlas)
 
+(Or use MongoDB Compass / MongoDB Atlas)
+```
 ---
 
 ## ▶️ Running the Application
-'''
+```
 python app.py  
 
 The app will run at:
 
 http://127.0.0.1:5000
-'''
+```
 ---
 
 ## 📤 Uploading a PDF
