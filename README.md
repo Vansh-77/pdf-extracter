@@ -51,7 +51,7 @@ pdf-data-extractor/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/pdf-data-extractor.git  
+git clone https://github.com/Vansh-77/pdf-extracter.git 
 cd pdf-data-extractor  
 
 ### 2️⃣ Install dependencies
