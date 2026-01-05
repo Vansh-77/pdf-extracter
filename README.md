@@ -40,7 +40,7 @@ pdf-data-extractor/
 │   └── index.html        # Web upload page
 │
 ├── samples/
-│   └── sample_invoice.pdf
+│   └── sample.pdf
 │
 ├── requirements.txt
 └── README.md 
